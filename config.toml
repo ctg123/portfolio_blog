@@ -1,4 +1,4 @@
-baseURL = "https://chaancegraves.com/"
+baseURL = "/"
 title = "Chaance T. Graves"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
