@@ -48,6 +48,10 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
+  name = "Notebooks"
+  url = "notebooks/"
+
+  [[params.navlinks]]
   name = "About Me"
   url = "about/"
 
