@@ -3,7 +3,7 @@ date = "2019-07-07T07:00:00+00:00"
 title = "About Me"
 
 +++
-Greetings ladies and gentlemen!
+Greetings ladies and gentlemen! 👋🏾
 
 My name is **Chaance Graves**. Welcome to my website where I share my projects that I've worked on or still tinkering with. I'm a creative problem solver implementing solutions to a wide range of problems foreseen in our modern society. 
 
@@ -25,12 +25,12 @@ I mentor high school students from underrepresented communities in Oakland, CA t
 
 #### Hobbies/Interests
 
-* Systems Engineering
+* Systems Engineering 💡
   * _Computer Architecture_
   * _A.I. (Machine learning) and Cyber-security applications_
   * _Wireless communications / IoT_
   * _Renewable energy systems and sustainability_
-* A fantastic collection of non-fiction books and futuristic sci-fi novels. 
-* Creative writing
+* A fantastic collection of non-fiction books and futuristic sci-fi novels 📚
+* Creative writing ✍🏾
 * Staying active with recreational sports and volunteering
-* Pure Audiohead 
+* Pure Audiophile 🎧
