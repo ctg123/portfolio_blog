@@ -3,17 +3,34 @@ date = "2019-07-07T07:00:00+00:00"
 title = "About Me"
 
 +++
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Greetings ladies and gentlemen!
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+My name is **Chaance Graves**. Welcome to my website where I share my projects that I've worked on or still tinkering with. I'm a creative problem solver implementing solutions to a wide range of problems foreseen in our modern society. 
 
 ![This is me](/img/blog-photos/about_me.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I currently work at [Intel Corporation](https://jobs.intel.com/page/show/data-center-careers-asia) based at their Santa Clara campus in Silicon Valley, California as a Datacenter Platform Applications Engineer since July 2017.
+
+I provide technical support and expertise for Intel server CPU's and server board design development for customers such as [Facebook](https://code.fb.com/category/data-center-engineering/), [Google](https://www.google.com/about/datacenters/), [Amazon Web Services](https://aws.amazon.com/compliance/data-center/data-centers/), etc. My primary OEM customer designs cloud computing server systems for companies such as Verizon Media (formerly Yahoo!), Apple, Dropbox, Amazon Web Services (AWS).
+
+My journey so far has me serving customers and fellow colleagues within the tech industry from different geographic regions around the U.S., Mexico, China, Taiwan, and Japan. I've also served as an Intel recruiting representative for the Datacenter Group for my Alma mater Texas A&M University, Prairie View, and at NSBE annual conventions.
+
+I mentor high school students from underrepresented communities in Oakland, CA to teach and inspire them to pursue careers in STEM. As of recent, I joined Microsoft Philanthropies' [TEALS](https://www.tealsk12.org/) (Technology Education and Literacy in Schools) program to share my knowledge and insight to help build sustainable Computer Science education for high schools.
 
 #### Education
 
-* Texas A&M University, B.S. in Electrical Engineering
-* Study abroad at EECS Brazil
+* [Texas A&M University](https://engineering.tamu.edu/electrical/index.html), background is in Electrical Engineering, Minor in Mathematics
+  * Concentration was in Device Science/Nanotechnology & Information Science and Systems.
+  * Completed a Summer Study abroad program at the [USP EECS](http://www.eesc.usp.br/portaleesc/en/index.php?option=com_content&view=article&id=13&Itemid=132) department in São Carlos Brazil.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+#### Hobbies/Interests
+
+* Systems Engineering
+  * _Computer Architecture_
+  * _A.I. (Machine learning) and Cyber-security applications_
+  * _Wireless communications / IoT_
+  * _Renewable energy systems and sustainability_
+* A fantastic collection of non-fiction books and futuristic sci-fi novels. 
+* Creative writing
+* Staying active with recreational sports and volunteering
+* Pure Audiohead 
