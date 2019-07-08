@@ -1,4 +1,5 @@
 +++
-date = "2016-11-06T13:00:25+05:30"
-title = "Blog & Projects"
+date = "2019-07-08T07:00:00+00:00"
+title = "C.G.'s blog"
+
 +++
