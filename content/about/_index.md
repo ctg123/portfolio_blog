@@ -11,7 +11,7 @@ My name is **Chaance Graves**. Welcome to my website where I share my projects t
 
 I currently work at [Intel Corporation](https://jobs.intel.com/page/show/data-center-careers-US) based at their Santa Clara campus in Silicon Valley, California as a Datacenter Platform Applications Engineer since July 2017.
 
-I provide technical support and expertise for Intel server CPU's and server board design development for customers such as [Facebook](https://code.fb.com/category/data-center-engineering/), [Google](https://www.google.com/about/datacenters/), [Amazon Web Services](https://aws.amazon.com/compliance/data-center/data-centers/), etc. My primary OEM customer designs cloud computing server systems for companies such as Verizon Media (formerly Yahoo!), Apple, Dropbox, Amazon Web Services (AWS).
+I provide technical support and expertise for Intel server CPU's and server board design development for customers such as [Facebook](https://code.fb.com/category/data-center-engineering/), [Google](https://www.google.com/about/datacenters/), [Amazon Web Services](https://aws.amazon.com/compliance/data-center/data-centers/), etc. My primary OEM customer designs cloud computing server systems for companies such as Verizon Media (formerly Yahoo!), Apple, Dropbox,  and Amazon Web Services (AWS).
 
 My journey so far has me serving customers and fellow colleagues within the tech industry from different geographic regions around the U.S., Mexico, China, Taiwan, and Japan. I've also served as an Intel recruiting representative for the Datacenter Group for my Alma mater Texas A&M University, Prairie View, and at [NSBE](https://nsbe.org/home.aspx) annual conventions.
 
