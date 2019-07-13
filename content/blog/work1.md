@@ -8,7 +8,7 @@ weight = 1
 +++
 Hey Folks!
 
-In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about. I'm sure you may be aware that this includes a massive area of career fields and activities, so lets look at a more specific approach that would be good for a beginner. 
+In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about. I'm sure you may be aware that this includes a massive area of career fields and activities, so lets look at a more specific approach that would be good to inform a beginner. 
 
 The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote:
 
@@ -17,15 +17,15 @@ The famous NASA physicist & mathematician, Katherine Johnson, provided a great s
 
 #### The S.T.E.A.M.EE principles
 
-We can breakdown the basic principles from the acronym to help reinforce the practical skills to leverage both the STEAM (Science, Technology, Engineering, Arts, Math). I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
+We can breakdown the basic principles from the acronym to help reinforce the practical skills to leverage STEAM (Science, Technology, Engineering, Arts, Math) principles. I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
 
 How can I get STEAMEEE and fired up 🔥🔥🔥?
 
-**S (Science)** - Science is the knowledge domain to asking and understanding how our world works, and what areas spark our interest. Examples include physical and life sciences, computer science, and interdisciplinary case studies.
+**S (Science)** - Science is the knowledge domain that encourages asking and seeking to understand how our world works, and what areas spark our interest. Some examples include physical and life sciences, computer science, and interdisciplinary case studies.
 
-**T (Technology)** - Understanding how technology can be leveraged as a powerful medium to develop and collaborate among the communities to truly build something worthwhile and beneficial to society and the our environment. (Examples: semiconductor tech, material science, cloud based services, artificial intelligence, etc…)
+**T (Technology)** - Understanding how technology can be leveraged as a powerful medium to develop and collaborate among the communities to truly build something worthwhile and beneficial to society and the our environment. (Examples: semiconductor tech, material science, cloud based services, Artificial Intelligence, etc…)
 
-**E (Engineering)** - The practical arm to build and put ideas into reality within creative designs that can exist among in the either the physical or digital world. These products and services allow the champions to have their inventions patent protected.
+**E (Engineering)** - The practical arm to build and put ideas into reality within creative designs that can co-exist in the either the physical or digital world. These products and services would help innovators learn to own their inventions and look for their Intellectual Property to patent protected. Additionally, a healthy understanding of users feedback would always fuel engineers to provide better, more meaningful solutions as needs and demand change over time. 
 
 **A (Arts)** - We as humans have immense creative potential and can express ourselves with beautiful pieces of art through many mediums (paintings, fashion, drawings, creative writing, music, etc.)
 
