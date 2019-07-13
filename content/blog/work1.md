@@ -6,14 +6,18 @@ title = "What impact can STEAM have today and in the future?"
 weight = 1
 
 +++
+Hey Folks!
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about. I'm sure you may be aware that this includes a massive area of career fields and activities, so lets look at a more specific approach that would be good for a beginner. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote:
 
-## Header Level 2
+> We will always have STEM with us. Some things will drop out of the public eye and will go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.  
+> \- _Katherine Johnson_
 
-Below is the basic principles I've described to help reinforce the practical skills to leverage both the STEAM (Science, Technology, Engineering, Arts, Math). I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
+#### The S.T.E.A.M.EE principles
+
+We can breakdown the basic principles from the acronym to help reinforce the practical skills to leverage both the STEAM (Science, Technology, Engineering, Arts, Math). I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
 
 How can I get STEAMEEE and fired up 🔥🔥🔥?
 
@@ -29,7 +33,7 @@ How can I get STEAMEEE and fired up 🔥🔥🔥?
 
 EE…
 
-**Economic empowerment/Entrepreneurship** - Learn how to use all the knowledge accessible to build wealth and turn your passions into a business if you want, entrepreneurship, investing to actualize financial freedom for generations. Consistently apply the fail fast methodology to increase everyone's profit margins over time while building perseverance, patience and focus on their goals. As adults, according to Dale Carnegie's observations (author of **_How to Win Friends and Influence People)_** is that we consistently seek out learning how to master these areas, often when it needs critical attention:
+**Economic empowerment/Entrepreneurship** - Learn how to use all the knowledge accessible to build wealth and turn your passions into a business if you want, entrepreneurship, investing to actualize financial freedom for generations. We can consistently apply a "fail fast methodology" to increase everyone's profit margins over time while building perseverance, patience and focus on their goals. As adults, according to Dale Carnegie's observations (author of **_How to Win Friends and Influence People)_** is that we consistently seek out learning how to master these areas, often when it needs critical attention:
 
 * manage finances
 * obtain wealth
@@ -40,6 +44,8 @@ It is becoming more imperative these lessons be taught at an early age, the earl
 
 **Equity** - The reality of the state of the world is that it is not fair among opportunities and access to common valuable resources. We strive to make every action count towards shaping the world to become a fair playing field. Who knows where greatness can emerge? We need to be honest about how the past influenced our current state of affairs.
 
-I
+This is barely touching on what can be said about this topic. Feel free to share any thoughts, or things I've missed or may have been unclear.
+
+All the best!
 
 \- Chaance
