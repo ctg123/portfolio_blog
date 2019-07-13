@@ -1,5 +1,5 @@
 +++
 date = "2019-07-08T07:00:00+00:00"
-title = "C.G.'s blog"
+title = "C.G.'s blog 😎"
 
 +++
