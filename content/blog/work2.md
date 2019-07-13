@@ -34,7 +34,9 @@ There are plentiful resources you can find online to teach yourself Python or  p
 
 * [Codeacademy](https://www.codecademy.com/learn/learn-python-3): Codecademy offers free code tutorials are very popular for good reason. The tutorials should give a good idea of what it's like to code Python with hands-on lessons where you actually get to write some code.
 * [Learn Python the Hard Way](https://learncodethehardway.org/python/) by Zed: This book is well received and aims to teach beginners how to read and write basic Python to then understand other books on Python. It is high quality which I recommend to start. You can try the [free sample](https://learnpythonthehardway.org/python3/) to see if it would work for you.
-* [Real Python](): 
-* Automate the boring stuff with Python by Al : .
+* [Real Python](): This website offers tutorials to learn any aspect of Python you curious about learning about. 
+* [Automate the boring stuff with Python by Al Sweigart](https://automatetheboringstuff.com/): This is enjoyable read and practical for anyone who has or currently working a tedious, routine job! He also offers a video course provided through Udemy.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Hopefully this has helped with your programming journey. Feel free to discuss any other useful resources or projects you've discovered learning Python. 👌🏾
+
+\-  Chaance
