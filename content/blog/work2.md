@@ -1,31 +1,40 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
-draft = false
 image = "img/blog-photos/business-card-26.jpg"
 showonlyimage = false
+title = "When is Python the right choice?"
 weight = 1
+
 +++
+Are you new to programming? have questions about which language would be a good start?
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
-<!--more-->
+This is actually more a personal preference depending on what the project and solution you're looking to achieve. However, for a beginner you have lots of flexibility to experiment which one is right for you. One programming language I enjoy working with and others have found useful is Python. I recommend to start with [Python 3](https://www.python.org/downloads/) as it has more community support to be developed and used for years to come. 
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+There are likely millions of developers around the world are using Python to build projects, tools and teaching others the fundamentals of programming. You can do all kinds of other amazing work in a multitude of domains.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Example applications: 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+\-  Web applications
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+\-  report generation
 
-## Header Level 2
+\-  test automation
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+\-  Machine learning/ Deep learning
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+\-  Ethical Hacking
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+\- Scientific applications, High performance computing
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+\- etc....
+
+#### Helpful online resources & books
+
+There are plentiful resources you can find online to teach yourself Python or  pair with a small group to work on projects!
+
+* [Codeacademy](https://www.codecademy.com/learn/learn-python-3): Codecademy offers free code tutorials are very popular for good reason. The tutorials should give a good idea of what it's like to code Python with hands-on lessons where you actually get to write some code.
+* [Learn Python the Hard Way](https://learncodethehardway.org/python/) by Zed: This book is well received and aims to teach beginners how to read and write basic Python to then understand other books on Python. It is high quality which I recommend to start. You can try the [free sample](https://learnpythonthehardway.org/python3/) to see if it would work for you.
+* [Real Python](): 
+* Automate the boring stuff with Python by Al : .
+
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
