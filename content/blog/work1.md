@@ -1,7 +1,7 @@
 +++
 date = "2019-07-13T19:29:08+00:00"
 image = "img/blog-photos/a4-paper.jpg"
-showonlyimage = true
+showonlyimage = false
 title = "What impact can STEAM have today and in the future?"
 weight = 1
 
