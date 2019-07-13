@@ -3,7 +3,7 @@ date = "2019-07-13T22:27:58+00:00"
 image = "img/blog-photos/python.png"
 showonlyimage = false
 title = "When is Python the right choice? 🐍"
-weight = 1
+weight = 4
 
 +++
 Are you new to programming? have questions about which language would be a good start?
