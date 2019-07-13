@@ -44,7 +44,9 @@ EE…
 
 It is becoming more imperative these lessons be taught at an early age, the earlier, the better. (85% of financial success comes from people skills, 15% technical skills \~ _Dale Carnegie_)
 
-**Equity** - The reality of the state of the world is that it is not fair among opportunities and access to common valuable resources. We strive to make every action count towards shaping the world to become a fair playing field. Who knows where greatness can emerge? We need to be honest about how the past influenced our current state of affairs.
+**Equity** - The reality of the state of the world is that it is not fair among opportunities and access to common valuable resources. We strive to make every action count towards shaping the world to become a fair playing field. The role you play at any stage has a tremendous opportunity to bridge that gap. 
+
+Who knows where greatness can emerge? We need to be honest about how the past influenced our current state of affairs.
 
 This is barely touching on what can be said about this topic. Feel free to share any thoughts, or things I've missed or may have been unclear.
 
