@@ -32,7 +32,7 @@ There are plentiful resources you can find online to teach yourself Python or  p
 
 [Real Python](https://realpython.com/): This website offers tutorials to learn any aspect of Python you curious about learning about.
 
-[Automate the boring stuff with Python by Al Sweigart](https://automatetheboringstuff.com/): This is enjoyable read and practical for anyone who has or currently working a tedious, routine job! He also offers a video course provided through Udemy.
+[Automate the boring stuff with Python by Al Sweigart](https://automatetheboringstuff.com/): This is a enjoyable read and practical for anyone who has or currently working a tedious, routine job! He also offers a video course provided through Udemy.
 
 [Udemy](https://www.udemy.com/topic/python/free/): You can find all sorts of courses and projects offered on this online education website. They range from beginner to advanced and have instructors teaching subjects in finance, data science, full-stack web development and more.
 
