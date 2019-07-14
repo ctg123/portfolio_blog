@@ -8,7 +8,7 @@ weight = 4
 +++
 Hey Folks!
 
-In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about. 
+In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about.
 
 I'm sure you may be aware that this includes a massive area of career fields and activities, so lets focus on a more specific approach that would be good to inform a beginner.
 
@@ -22,7 +22,7 @@ The famous NASA physicist & mathematician, Katherine Johnson, provided a great s
 
 We can breakdown the acronym to help reinforce the practical skills needed to apply the STEAM (Science, Technology, Engineering, Arts, Math) principles. I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
 
-So...How can I get STEAMEEE and fired up 🔥🔥🔥?
+So...How can you and I get STEAMEEE and fired up 🔥🔥🔥?
 
 **S (Science)** - Science is the knowledge domain that encourages asking and seeking to understand how our world works, and what areas spark our interest. Some examples include physical and life sciences, computer science, and interdisciplinary case studies.
 
@@ -34,7 +34,7 @@ So...How can I get STEAMEEE and fired up 🔥🔥🔥?
 
 **M (Mathematics)** - The skill we use as a foundation for all the other areas to exist. It can be as simple or as complex as you choose depending on what the situation and problems calls for. It is the most universal language that anyone can understand. It is not about marks, it is an essential life skill that will apply to anything we do in our daily lives.
 
-**Economic empowerment/Entrepreneurship** - Learn how to use all the knowledge accessible to decide where your skills can aid with your personal goals of wealth. As an innovator, this can help sharpen your mindset towards your financial goals.You can also turn your passions into a business if you choose to.  
+**Economic empowerment/Entrepreneurship** - Learn how to use all the knowledge accessible to decide where your skills can aid with your personal goals of wealth. As an innovator, this can help sharpen your mindset towards your financial goals.You can also turn your passions into a business if you choose to.
 
 Investing to actualize financial freedom for generations is a journey. We can apply a "fail fast methodology" that encourages learning from trial and error and quickly identifying where your particular niche idea fits with the customers you're seeking to serve. Anticipate building perseverance, patience and focus throughout this process. As adults, according to Dale Carnegie's observations (author of **_How to Win Friends and Influence People)_** is that we consistently seek out learning how to master these areas, often when it needs critical attention:
 
@@ -45,13 +45,13 @@ Investing to actualize financial freedom for generations is a journey. We can ap
 
 It is becoming more imperative that these lessons be taught at an early age.
 
->  (85% of financial success comes from people skills, 15% technical skills \~ _Dale Carnegie_)
+> (85% of financial success comes from people skills, 15% technical skills \~ _Dale Carnegie_)
 
 **Equity** - The reality of the state of the world is that it is not fair among opportunities and access to common valuable resources. My recommendation is to every action count towards shaping the world to become a fair playing field. The role you play at any stage has a tremendous opportunity to bridge that gap.
 
 Who knows where greatness can emerge? We need to be honest about how the past influenced our current state of affairs.
 
-This is barely touching on what can be said about this topic. Feel free to share any thoughts, or things I've missed or may have been unclear.
+This is barely touching on what can be said about this topic. Feel free to share any thoughts, or things I've missed or been unclear about.
 
 All the best!
 
