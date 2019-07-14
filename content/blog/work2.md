@@ -34,6 +34,6 @@ There are plentiful resources you can find online to teach yourself Python or  p
 
 [Udemy](https://www.udemy.com/topic/python/free/): You can find all sorts of courses and projects offered on this online education website. They range from beginner to advanced and have instructors teaching subjects in finance, data science, full-stack web development and more.
 
-This will jumpstart  your programming journey for success. Feel free to discuss any other useful resources or projects you've discovered learning Python. 👌🏾
+This will jumpstart your programming journey for success. Feel free to discuss any other useful resources or projects you've discovered learning Python. 👌🏾
 
 \-  Chaance
