@@ -10,7 +10,7 @@ Are you new to programming? have questions about which language would be a good 
 
 This is actually more a personal preference depending on what the project and solution you're looking to achieve. However, for a beginner, you have lots of flexibility to experiment which one is right for you. One programming language I enjoy working with and others have found useful is Python. I recommend to start with [Python 3](https://www.python.org/downloads/) as it has more community support to be developed and used for years to come.
 
-There are likely millions of developers around the world are using Python to build projects, tools, and using it to teach others the fundamentals of programming. You can do all kinds of other amazing work in a multitude of domains.
+There are likely millions of developers around the world using Python to build projects, tools, and using it to teach others the fundamentals of programming. You can do all kinds of other amazing work in a multitude of domains.
 
 ##### Example applications:
 
