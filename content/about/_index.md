@@ -1,11 +1,11 @@
 +++
-date = "2019-07-07T07:00:00+00:00"
+date = 2019-07-07T07:00:00Z
 title = "About Me"
 
 +++
 Greetings ladies and gentlemen! 👋🏾
 
-My name is **Chaance Graves**. Welcome to my website where I share my projects that I've worked on or still tinkering with. I'm a creative problem solver implementing solutions to a wide range of problems foreseen in our modern society.
+My name is **Chaance Graves**. Welcome to my website where I share my projects that I've worked on or still tinkering with. I'm a creative problem solver eager to implement solutions to a wide range of problems foreseen in our modern society.
 
 ![This is me](/img/blog-photos/about_me.jpg)
 
