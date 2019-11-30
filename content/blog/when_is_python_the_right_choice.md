@@ -14,12 +14,18 @@ There are likely millions of developers around the world using Python to build p
 
 #### Example applications:
 
-* Web applications
+* Web applications 
 
   &nbsp;
 * Machine Learning / Deep learning
+
+  &nbsp;
 * Automating weekly emails
+
+  &nbsp;
 * Setting up jobs to update a spreadsheet
+
+  &nbsp;
 * etc....
 
 #### Helpful online resources & books
