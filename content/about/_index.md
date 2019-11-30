@@ -17,11 +17,15 @@ My journey so far has me serving customers and fellow colleagues within the tech
 
 I mentor high school students from underrepresented communities in Oakland, CA to teach and inspire them to pursue careers in STEM. As of recent, I joined Microsoft Philanthropies' [TEALS](https://www.tealsk12.org/) (Technology Education and Literacy in Schools) program to share my knowledge and insight to help build sustainable Computer Science education for high schools.
 
+***
+
 #### Education
 
 * [Texas A&M University](https://engineering.tamu.edu/electrical/index.html), background is in Electrical Engineering, Minor in Mathematics
   * Concentration was in Device Science/Nanotechnology & Information Science and Systems.
   * Completed a Summer Study abroad program at the [USP EECS](http://www.eesc.usp.br/portaleesc/en/index.php?option=com_content&view=article&id=13&Itemid=132) department in São Carlos, Brazil.
+
+***
 
 #### Hobbies/Interests
 
