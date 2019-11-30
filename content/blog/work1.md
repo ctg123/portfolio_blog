@@ -1,9 +1,9 @@
 +++
-date = "2019-07-13T19:29:08+00:00"
+date = 2019-07-13T19:29:08Z
 image = ""
 showonlyimage = false
 title = "What impact can STEAM have today and in the future?"
-weight = 4
+weight = "5"
 
 +++
 Hey Folks!
