@@ -1,5 +1,5 @@
 +++
-date = "2019-07-13T22:27:58+00:00"
+date = 2019-07-13T22:27:58Z
 image = "img/blog-photos/python.png"
 showonlyimage = false
 title = "When is Python the right choice? 🐍"
