@@ -15,7 +15,7 @@ I provide technical support and expertise for Intel server CPU's and server boar
 
 My journey so far has me serving customers and fellow colleagues within the tech industry from different geographic regions on a global scale including U.S., Mexico, China, Taiwan, and Japan. I've also served as an Intel recruiting representative for the Datacenter Group for my Alma mater Texas A&M University, Prairie View, and at [NSBE](https://nsbe.org/home.aspx) annual conventions.
 
-I mentor high school students from underrepresented communities in Oakland, CA to teach and inspire them to pursue careers in STEM. As of recent, I joined Microsoft Philanthropies' [TEALS](https://www.tealsk12.org/) (Technology Education and Literacy in Schools) program to share my knowledge and insight to help build sustainable Computer Science education for high schools.
+I mentor high school students from underrepresented communities in Oakland, CA to teach and inspire them to pursue careers in STEM.
 
 ***
 
