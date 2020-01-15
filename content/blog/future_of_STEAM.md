@@ -12,7 +12,7 @@ In this blog post, I share some of my thoughts about what STEAM is all about and
 
 I'm sure you're aware that STEAM covers a significant amount of career fields and activities, so lets focus on a more specific approach that would be good to inform a beginner.
 
-The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote of these principles:
+The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote of these principles in my opinion. 
 
 > We will always have STEM with us. Some things will drop out of the public eye and will go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.
 >
