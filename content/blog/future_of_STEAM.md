@@ -8,9 +8,9 @@ weight = "5"
 +++
 Hey Folks!
 
-In this blog post, I've gather some preliminary notes around the ever broad topic of what STEAM is all about.
+In this blog post, I share some of my thoughts about what STEAM is all about and a brief breakdown and summary of applications. 
 
-I'm sure you may be aware that this includes a massive area of career fields and activities, so lets focus on a more specific approach that would be good to inform a beginner.
+I'm sure you're aware that STEAM covers a significant amount of career fields and activities, so lets focus on a more specific approach that would be good to inform a beginner.
 
 The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote of these principles:
 
@@ -20,7 +20,7 @@ The famous NASA physicist & mathematician, Katherine Johnson, provided a great s
 
 #### The S.T.E.A.M.EE principles
 
-We can breakdown the acronym to help reinforce the practical skills needed to apply the STEAM (Science, Technology, Engineering, Arts, Math) principles. I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
+This acronym is one I use to help me reinforce the practical skills needed to apply the STEAM (Science, Technology, Engineering, Arts, Math) principles. I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
 
 So...How can you and I get STEAMEEE and fired up 🔥🔥🔥?
 
