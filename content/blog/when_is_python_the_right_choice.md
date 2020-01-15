@@ -24,7 +24,7 @@ There are likely millions of developers around the world using Python to build p
 
 There are plentiful resources you can find online to teach yourself Python or pair with a small group to work on projects!
 
-[Codeacademy](https://www.codecademy.com/learn/learn-python-3): Codeacademy offers free code tutorials are very popular for good reason. The tutorials should give you a good idea of what it's like to code Python with hands-on lessons where you actually get to write some code.
+[Codeacademy](https://www.codecademy.com/learn/learn-python-3): Codeacademy offers free code tutorials that are very popular for good reason. The tutorials should give you a good idea of what it's like to code Python with hands-on lessons where you actually get to write some code.
 
 [Learn Python the Hard Way by Zed Shaw](https://learncodethehardway.org/python/): This book is well received and aims to teach beginners how to read and write basic Python as a foundation to understand other books on Python. It is high quality which I recommend regardless of where your current skill is. You can try the [free sample](https://learnpythonthehardway.org/python3/) to see if it would work for you.
 
