@@ -1,59 +1,70 @@
 +++
-date = 2019-07-13T19:29:08Z
+date = 2020-03-04T08:00:00Z
 draft = true
 image = ""
 showonlyimage = false
-title = "What impact can STEAM have today and in the future?"
+title = "So what is cloud computing actually? ☁️"
 weight = "5"
 
 +++
-Hey Folks!
+Hi Folks!
 
-In this blog post, I share some of my thoughts about what STEAM is all about and a brief breakdown and summary of applications. 
+Have you evered wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does? 
 
-I'm sure you're aware that STEAM covers a significant amount of career fields and activities, so we can focus on a more specific approach that would be good to inform a beginner.
+Cloud computing is a set of computing resouces developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhre where there is an internet connection. 
 
-The famous NASA physicist & mathematician, Katherine Johnson, provided a great summarizing quote of these principles in my opinion. 
+Some of the cloud computing features include the following: 
 
-> We will always have STEM with us. Some things will drop out of the public eye and will go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.
->
-> \- _Katherine Johnson_
+\- _On-Demand Services_ – Available when you need it 24/7.
 
-#### The S.T.E.A.M.EE principles
+ &nbsp;
 
-This acronym is one I use to help me reinforce the practical skills needed to apply the STEAM (Science, Technology, Engineering, Arts, Math) principles. I always reflect on these ideas to see where any impact can be made towards economic empowerment, environmental sustainability, and equity.
+\- _Network Access_ – When using the internet as your medium.
 
-So...How can you and I get STEAMEEE and fired up 🔥🔥🔥?
+ &nbsp; 
 
-**S (Science)** - Science is the knowledge domain that encourages asking and seeking to understand how our world works, and what areas spark our interest. Some examples include physical and life sciences, computer science, and interdisciplinary case studies.
+\- _Shared Resources_ – All resources are gathered together and used by multiple customers.
 
-**T (Technology)** - Understanding how technology can be leveraged as a powerful medium to develop and collaborate among the communities to truly build something worthwhile and beneficial to society and our environment. (Examples: semiconductor tech, material science, cloud based services, Artificial Intelligence, etc…)
+ &nbsp; 
 
-**E (Engineering)** - The practical arm to build and put ideas into reality within creative designs that can co-exist in either the physical or digital world or both. These products and services would help innovators learn to own their inventions and look for their Intellectual Property to patent protected. Additionally, a healthy understanding of users feedback would always fuel engineers to provide better, more meaningful solutions as needs and demand change over time.
+\- _Scalability_ - The ability of a computer system to adapt to increasing demands. 
 
-**A (Arts)** - We humans have immense creative potential and can express ourselves with beautiful pieces of art through many mediums (paintings, fashion, drawings, creative writing, music, etc.)
+The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. When they are arranged in a pyramid structure, they are in the order of SaaS, PaaS, and IaaS. 
 
-**M (Mathematics)** - The skill we use as a foundation for all the other areas to exist. It can be as simple or as complex as you choose depending on what the situation and problems calls for. It is the most universal language that anyone can understand. It is not about grades you get from school, it is an essential life skill that will apply to anything we do in our daily lives.
+\## _The Three Services pyramid image goes here_
 
-**Economic empowerment/Entrepreneurship** - Learn how to use all the knowledge accessible to decide where your skills can aid with your personal goals of wealth. As an innovator, this can help sharpen your mindset towards your financial goals.You can also turn your passions into a business if you choose to.
+\#### SaaS - Software as a Service
 
-Investing to actualize financial freedom for generations is a journey. We can apply a "fail fast methodology" that encourages learning from trial and error and quickly identifying where your particular niche idea fits with the customers you're seeking to serve. Anticipate building perseverance, patience and focus throughout this process. As adults, according to Dale Carnegie's observations (author of **_How to Win Friends and Influence People_**_)_ is that we consistently seek out learning how to master these areas, often when it needs critical attention:
+This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. Cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly. 
 
-* manage finances
-* obtain wealth
-* health and wellness
-* skills with people
+The most popular SaaS providers offer the following products and services: Google Ecosystem including Gmail, Google Docs, Google Drive, Microsoft Office 365, and SalesForce. 
 
-It is becoming more imperative that these lessons be taught at an early age.
+\#### PaaS - Platform as a Service
 
-> (85% of financial success comes from people skills, 15% technical skills \~ _Dale Carnegie_)
+This service is mostly a development environment that is made up of a programming language execution environment, an operating system, web server, and database. It provides an environment where users can build, compile, and run their program without worrying about an hidden infrastructure. You manage the data and application resources. All the other resources are managed by the vendor. This is the realm for developers. 
 
-**Equity** - The reality of the state of the world is that it is not fair among opportunities and access to common valuable resources. My recommendation is to every action count towards shaping the world to become a fair playing field. The role you play at any stage has a tremendous opportunity to bridge that gap.
+PaaS providers offer the following products and services: Amazon Web services, Elastic Beanstalk, Google App Engine, Windows Azure, Heroku, and Force.com  
 
-Who knows where greatness can emerge? We need to be honest about how the past influenced our current state of affairs.
+\#### IaaS - Infrastructure as a Service
 
-This is barely touching on what can be said about this topic. Feel free to share any thoughts, or things I've missed or been unclear about.
+This service provides the architecture and infrastructure. It provides all computing resources but in a virtual environment so multiple users can have access. The resources include data storage, virtualization, servers, and networking. Most vendors are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, runtime, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on. 
 
-All the best!
+IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
 
-\- Chaance
+\---
+
+\#### Short list of major cloud service providers and popular products:  
+
+\**iCloud** – The cloud service from Apple is for Apple products. You can backup and store everything from multimedia to documents online. The content is then smoothly synced onto your other devices that share the cloud's access. 
+
+\**Amazon's AWS** - When you talk about companies using cloud computing, Amazon Web Services leads the pack. It offers IaaS and PaaS to all their customers. 
+
+\**Google Cloud** – This cloud platform is universal for Google's enormous ecosystem and for other products such as Google Docs. It provides storage of data and collaboration along with other services that are included in their cloud computing suite.  
+
+\**Microsoft Azure** – Offered by Microsoft, it provides SaaS, PaaS, and IaaS for its software and developer tools. If you have used Office 365, then you have used it's SaaS.  
+
+\**IBM Smart Cloud** - This offers private, public, and hybrid distribution platforms providing a full range of SaaS, PaaS, and IaaS cloud computing services for businesses. The pay as you go platform generates profits for IBM.  
+
+New applications are coming to life at a rapid pace all over the internet and the Cloud is no doubt a reason for it. You can expect cloud computing to be on the rise well into the next decade. This is only scratching the surface on what is possible. Who knows what will come next? 
+
+\\- Chaance
