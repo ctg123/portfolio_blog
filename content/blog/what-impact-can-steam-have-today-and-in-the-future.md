@@ -37,7 +37,7 @@ PaaS providers offer the following products and services: Amazon Web services, E
 
 **IaaS - Infrastructure as a Service**
 
-This service provides the architecture and infrastructure. It provides all computing resources but in a virtual environment so multiple users can have access. The resources include data storage, virtualization, servers, and networking. Most vendors are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, runtime, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on.
+This service provides the architecture and infrastructure of the cloud. It provides all computing resources but in a virtual environment so multiple users can have access. These resources include data storage, virtualization, servers, and networking. Most of the cloud service providers are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, run-time, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on.
 
 IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
 
@@ -45,15 +45,15 @@ IaaS providers offer the following products and services: Amazon EC2, Go Grid, a
 
 **Short list of major cloud service providers and popular products:**
 
-_*iCloud_* – The cloud service from Apple is for Apple products. You can backup and store everything from multimedia to documents online. The content is then smoothly synced onto your other devices that share the cloud's access.
+**_iCloud_** – The cloud service from Apple is for Apple products. You can backup and store everything from multimedia to documents online. The content is then smoothly synced onto your other devices that share the cloud's access.
 
-\*_Amazon's AWS_* - When you talk about companies using cloud computing, Amazon Web Services leads the pack. It offers IaaS and PaaS to all their customers.
+**_Amazon's AWS_** - When you talk about companies using cloud computing, Amazon Web Services leads the pack. It offers IaaS and PaaS to all their customers.
 
-\*_Google Cloud_* – This cloud platform is universal for Google's enormous ecosystem and for other products such as Google Docs. It provides storage of data and collaboration along with other services that are included in their cloud computing suite.
+**_Google Cloud_** – This cloud platform is universal for Google's enormous ecosystem and for other products such as Google Docs. It provides storage of data and collaboration along with other services that are included in their cloud computing suite.
 
-\*_Microsoft Azure_* – Offered by Microsoft, it provides SaaS, PaaS, and IaaS for its software and developer tools. If you have used Office 365, then you have used it's SaaS.
+**_Microsoft Azure_** – Offered by Microsoft, it provides SaaS, PaaS, and IaaS for its software and developer tools. If you have used Office 365, then you have used it's SaaS.
 
-\*_IBM Smart Cloud_* - This offers private, public, and hybrid distribution platforms providing a full range of SaaS, PaaS, and IaaS cloud computing services for businesses. The pay as you go platform generates profits for IBM.
+**_IBM Smart Cloud_** - This offers private, public, and hybrid distribution platforms providing a full range of SaaS, PaaS, and IaaS cloud computing services for businesses. The pay as you go platform generates profits for IBM.
 
 New applications are coming to life at a rapid pace all over the internet and the Cloud is no doubt a reason for it. You can expect cloud computing to be on the rise well into the next decade. This is only scratching the surface on what is possible. Who knows what will come next?
 
