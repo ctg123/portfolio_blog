@@ -8,62 +8,53 @@ weight = "5"
 +++
 Hi Folks!
 
-Have you ever wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does? 
+Have you ever wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does?
 
-Cloud computing is a set of computing resources developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhere where there is an internet connection. 
+Cloud computing is a set of computing resources developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhere where there is an internet connection.
 
-Some of the cloud computing features include the following: 
+Some of the cloud computing features include the following:
 
-\- _On-Demand Services_ – Available when you need it 24/7.
+*  _On-Demand Services_ – Available when you need it 24/7.
+* _Network Access_ – When using the internet as your medium.
+* _Shared Resources_ – All resources are gathered together and used by multiple customers.
+* _Scalability_ - The ability of a computer system to adapt to increasing demands.
 
- &nbsp;
-
-\- _Network Access_ – When using the internet as your medium.
-
- &nbsp; 
-
-\- _Shared Resources_ – All resources are gathered together and used by multiple customers.
-
- &nbsp; 
-
-\- _Scalability_ - The ability of a computer system to adapt to increasing demands. 
-
-The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. When they are arranged in a pyramid structure, they are in the order of SaaS, PaaS, and IaaS. 
+The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. When they are arranged in a pyramid structure, they are in the order of SaaS, PaaS, and IaaS.
 
 \## _The Three Services pyramid image goes here_
 
-\#### SaaS - Software as a Service
+**SaaS - Software as a Service**
 
-This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. Cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly. 
+This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. Cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly.
 
-The most popular SaaS providers offer the following products and services: Google Ecosystem including Gmail, Google Docs, Google Drive, Microsoft Office 365, and SalesForce. 
+The most popular SaaS providers offer the following products and services: Google Ecosystem including Gmail, Google Docs, Google Drive, Microsoft Office 365, and SalesForce.
 
-\#### PaaS - Platform as a Service
+**PaaS - Platform as a Service**
 
-This service is mostly a development environment that is made up of a programming language execution environment, an operating system, web server, and database. It provides an environment where users can build, compile, and run their program without worrying about an hidden infrastructure. You manage the data and application resources. All the other resources are managed by the vendor. This is the realm for developers. 
+This service is mostly a development environment that is made up of a programming language execution environment, an operating system, web server, and database. It provides an environment where users can build, compile, and run their program without worrying about an hidden infrastructure. You manage the data and application resources. All the other resources are managed by the vendor. This is the realm for developers.
 
-PaaS providers offer the following products and services: Amazon Web services, Elastic Beanstalk, Google App Engine, Windows Azure, Heroku, and Force.com  
+PaaS providers offer the following products and services: Amazon Web services, Elastic Beanstalk, Google App Engine, Windows Azure, Heroku, and Force.com
 
-\#### IaaS - Infrastructure as a Service
+**IaaS - Infrastructure as a Service**
 
-This service provides the architecture and infrastructure. It provides all computing resources but in a virtual environment so multiple users can have access. The resources include data storage, virtualization, servers, and networking. Most vendors are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, runtime, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on. 
+This service provides the architecture and infrastructure. It provides all computing resources but in a virtual environment so multiple users can have access. The resources include data storage, virtualization, servers, and networking. Most vendors are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, runtime, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on.
 
 IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
 
 \---
 
-\#### Short list of major cloud service providers and popular products:  
+**Short list of major cloud service providers and popular products:**
 
-\**iCloud** – The cloud service from Apple is for Apple products. You can backup and store everything from multimedia to documents online. The content is then smoothly synced onto your other devices that share the cloud's access. 
+_*iCloud_* – The cloud service from Apple is for Apple products. You can backup and store everything from multimedia to documents online. The content is then smoothly synced onto your other devices that share the cloud's access.
 
-\**Amazon's AWS** - When you talk about companies using cloud computing, Amazon Web Services leads the pack. It offers IaaS and PaaS to all their customers. 
+\*_Amazon's AWS_* - When you talk about companies using cloud computing, Amazon Web Services leads the pack. It offers IaaS and PaaS to all their customers.
 
-\**Google Cloud** – This cloud platform is universal for Google's enormous ecosystem and for other products such as Google Docs. It provides storage of data and collaboration along with other services that are included in their cloud computing suite.  
+\*_Google Cloud_* – This cloud platform is universal for Google's enormous ecosystem and for other products such as Google Docs. It provides storage of data and collaboration along with other services that are included in their cloud computing suite.
 
-\**Microsoft Azure** – Offered by Microsoft, it provides SaaS, PaaS, and IaaS for its software and developer tools. If you have used Office 365, then you have used it's SaaS.  
+\*_Microsoft Azure_* – Offered by Microsoft, it provides SaaS, PaaS, and IaaS for its software and developer tools. If you have used Office 365, then you have used it's SaaS.
 
-\**IBM Smart Cloud** - This offers private, public, and hybrid distribution platforms providing a full range of SaaS, PaaS, and IaaS cloud computing services for businesses. The pay as you go platform generates profits for IBM.  
+\*_IBM Smart Cloud_* - This offers private, public, and hybrid distribution platforms providing a full range of SaaS, PaaS, and IaaS cloud computing services for businesses. The pay as you go platform generates profits for IBM.
 
-New applications are coming to life at a rapid pace all over the internet and the Cloud is no doubt a reason for it. You can expect cloud computing to be on the rise well into the next decade. This is only scratching the surface on what is possible. Who knows what will come next? 
+New applications are coming to life at a rapid pace all over the internet and the Cloud is no doubt a reason for it. You can expect cloud computing to be on the rise well into the next decade. This is only scratching the surface on what is possible. Who knows what will come next?
 
 \\- Chaance
