@@ -14,7 +14,7 @@ Cloud computing is a set of computing resources developed that contain certain e
 
 Some of the cloud computing features include the following:
 
-*  _On-Demand Services_ – Available when you need it 24/7.
+* _On-Demand Services_ – Available when you need it 24/7.
 * _Network Access_ – When using the internet as your medium.
 * _Shared Resources_ – All resources are gathered together and used by multiple customers.
 * _Scalability_ - The ability of a computer system to adapt to increasing demands.
@@ -57,4 +57,4 @@ _*iCloud_* – The cloud service from Apple is for Apple products. You can backu
 
 New applications are coming to life at a rapid pace all over the internet and the Cloud is no doubt a reason for it. You can expect cloud computing to be on the rise well into the next decade. This is only scratching the surface on what is possible. Who knows what will come next?
 
-\\- Chaance
+\- Chaance
