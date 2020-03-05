@@ -21,8 +21,6 @@ Some of the cloud computing features include the following:
 
 The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. When they are arranged in a pyramid structure, they are in the order of SaaS, PaaS, and IaaS.
 
-                             
-
                      ## _The Three Services pyramid image goes here_
 
 **SaaS - Software as a Service**
