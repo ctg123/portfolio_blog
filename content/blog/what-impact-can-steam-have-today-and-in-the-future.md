@@ -9,9 +9,9 @@ weight = "5"
 +++
 Hi Folks!
 
-Have you evered wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does? 
+Have you ever wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does? 
 
-Cloud computing is a set of computing resouces developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhre where there is an internet connection. 
+Cloud computing is a set of computing resources developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhere where there is an internet connection. 
 
 Some of the cloud computing features include the following: 
 
