@@ -1,0 +1,19 @@
+---
+label: So what is cloud computing actually?
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: image
+  label: image
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: text
+  name: title
+  label: title
+- type: text
+  name: weight
+  label: weight

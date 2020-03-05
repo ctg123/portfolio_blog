@@ -43,10 +43,5 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   instant_preview_command: 'hugo server -D '
-  publish_command: hugo -d public
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.50
-  output_directory: public
   preview_command: hugo server -D
 version: '0.50'
