@@ -1,6 +1,5 @@
 +++
 date = 2020-03-04T08:00:00Z
-draft = true
 image = ""
 showonlyimage = false
 title = "So what is cloud computing actually? ☁️"
