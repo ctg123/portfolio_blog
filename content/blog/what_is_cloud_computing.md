@@ -1,6 +1,6 @@
 +++
 date = 2020-03-04T08:00:00Z
-image = ""
+image = "img/blog-photos/the-cloud-ecosystem.png"
 showonlyimage = false
 title = "So what is cloud computing actually? ☁️"
 weight = "5"
