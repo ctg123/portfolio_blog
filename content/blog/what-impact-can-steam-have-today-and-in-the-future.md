@@ -41,7 +41,7 @@ This service provides the architecture and infrastructure of the cloud. It provi
 
 IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
 
-\---
+\--
 
 **Short list of major cloud service providers and popular products:**
 
