@@ -1,6 +1,6 @@
 +++
 date = 2019-07-13T19:29:08Z
-image = ""
+image = "img/blog-photos/tech-of-the-future.png"
 showonlyimage = false
 title = "What impact can STEAM have today and in the future?"
 weight = "5"
