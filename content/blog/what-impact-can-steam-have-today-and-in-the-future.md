@@ -31,7 +31,7 @@ The most popular SaaS providers offer the following products and services: Googl
 
 **PaaS - Platform as a Service**
 
-This service is mostly a development environment that is made up of a programming language execution environment, an operating system, web server, and database. It provides an environment where users can build, compile, and run their program without worrying about an hidden infrastructure. You manage the data and application resources. All the other resources are managed by the vendor. This is the realm for developers.
+This service is mostly a development environment that is made up of a programming language execution environment, an operating system, web server, and database. It provides an environment where users can build, compile, and run their programs without the need of worrying about the underlying infrastructure. You manage the data and application resources. All the other resources are managed by the vendor. This is the realm for developers.
 
 PaaS providers offer the following products and services: Amazon Web services, Elastic Beanstalk, Google App Engine, Windows Azure, Heroku, and Force.com
 
