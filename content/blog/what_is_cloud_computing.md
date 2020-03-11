@@ -19,9 +19,9 @@ Some of the cloud computing features include the following:
 * _Shared Resources_ – All resources are gathered together and used by multiple customers.
 * _Scalability_ - The ability of a computer system to adapt to increasing demands.
 
-The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. When they are arranged in a pyramid structure, they are in the order of SaaS, PaaS, and IaaS.
+The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. You can see in the illustration below of how a typical Cloud service provider organizes  SaaS, PaaS, IaaS and what level of services are for the end customers and what they will manage as the host vendor.
 
-                     ## _The Three Services pyramid image goes here_
+![](/uploads/cloud-computing-illustration.png)
 
 **SaaS - Software as a Service**
 
