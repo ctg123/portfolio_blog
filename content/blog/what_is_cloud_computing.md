@@ -21,7 +21,7 @@ Some of the cloud computing features include the following:
 
 The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. You can see in the illustration below of how a typical Cloud service provider organizes  SaaS, PaaS, IaaS and what level of services are for the end customers and what they will manage as the host vendor.
 
-![](/uploads/cloud-computing-illustration.png)
+![](/uploads/cloud-computing-illustration.png "cloud computing illustration")
 
 **SaaS - Software as a Service**
 
