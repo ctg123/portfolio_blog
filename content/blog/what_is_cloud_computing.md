@@ -10,7 +10,7 @@ Hi Folks!
 
 Have you ever wondered – What Is Cloud Computing actually? For example, Are you curious as to how your Google drive or Dropbox is capable of doing what it does?
 
-Cloud computing is a set of computing resources developed that contain certain elements that allows for on-demand, network access, scalability, and shared resources. Think of it as a platform for managing, storing, and processing data online that can be accessed anywhere where there is an internet connection.
+Cloud computing is a set of computing resources developed that contain certain elements of compute, networking, and storage capabilites. Think of it as a platform for managing, storing, and processing data that is always online and can be accessed anywhere where a reliable internet connection exists.
 
 Some of the cloud computing features include the following:
 
@@ -19,7 +19,7 @@ Some of the cloud computing features include the following:
 * _Shared Resources_ – All resources are gathered together and used by multiple customers.
 * _Scalability_ - The ability of a computer system to adapt to increasing demands.
 
-The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. You can see in the illustration below of how a typical Cloud service provider organizes  SaaS, PaaS, IaaS and what level of services are for the end customers and what they will manage as the host vendor.
+The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. You can see in the illustration below how a typical Cloud service provider organizes their  SaaS, PaaS, IaaS services.  The figure on the right shows what end customers pay for and what Cloud service providers will manage as the host vendor.
 
 ![](/img/blog-photos/cloud-computing-illustration.png "cloud computing illustration")
 
@@ -40,6 +40,10 @@ PaaS providers offer the following products and services: Amazon Web services, E
 This service provides the architecture and infrastructure of the cloud. It provides all computing resources but in a virtual environment so multiple users can have access. These resources include data storage, virtualization, servers, and networking. Most of the cloud service providers are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, run-time, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on.
 
 IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
+
+You can see the how the services are built on top of each other in the diagram below. It provides a great summary of what goes on underneath the hood of it all!
+
+![](/img/blog-photos/cloud-services.png "cloud computing stack")
 
 \--
 
