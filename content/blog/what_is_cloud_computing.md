@@ -25,7 +25,7 @@ The are Three primary delivery models in which Cloud computing can provide diffe
 
 **SaaS - Software as a Service**
 
-This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. Cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly.
+This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. The cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly.
 
 The most popular SaaS providers offer the following products and services: Google Ecosystem including Gmail, Google Docs, Google Drive, Microsoft Office 365, and SalesForce.
 
