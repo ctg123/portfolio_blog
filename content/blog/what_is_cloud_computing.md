@@ -23,6 +23,10 @@ The are Three primary delivery models in which Cloud computing can provide diffe
 
 ![](/img/blog-photos/cloud-computing-illustration.png "cloud computing illustration")
 
+You can see how the services are built on top of each other in the diagram below. It provides a great summary of what goes on underneath the hood of it all!
+
+![](/img/blog-photos/cloud-services.png "cloud computing stack")
+
 **SaaS - Software as a Service**
 
 This service provides on-demand pay per use of the application software for users and is independent of a platform. You do not have to install software on your computer, unlike a license paid program. The cloud runs a single occurrence of the software, making it available for multiple end-users allowing the service to be cheap. All the computing resources that are responsible for delivering SaaS is typically managed completely by the vendor and is accessible through a web browser or lightweight client application(s). End customers ranging from individuals to large companies use SaaS regularly.
@@ -40,10 +44,6 @@ PaaS providers offer the following products and services: Amazon Web services, E
 This service provides the architecture and infrastructure of the cloud. It provides all computing resources but in a virtual environment so multiple users can have access. These resources include data storage, virtualization, servers, and networking. Most of the cloud service providers are responsible for managing them. If you use this service, you are responsible for handling other resources including applications, data, run-time, and middleware. This is mostly work that SysAdmins, or a DevOps/SRE team at a company would focus on.
 
 IaaS providers offer the following products and services: Amazon EC2, Go Grid, and Rackspace.com.
-
-You can see the how the services are built on top of each other in the diagram below. It provides a great summary of what goes on underneath the hood of it all!
-
-![](/img/blog-photos/cloud-services.png "cloud computing stack")
 
 \--
 
