@@ -14,10 +14,10 @@ Cloud computing is a set of computing resources developed that contain certain e
 
 Some of the cloud computing features include the following:
 
-* _On-Demand Services_ – Available when you need it 24/7.
-* _Network Access_ – When using the internet as your medium.
-* _Shared Resources_ – All resources are gathered together and used by multiple customers.
-* _Scalability_ – The ability of a computer system to adapt to increasing demands.
+* **_On-Demand Services_** – Available when you need it 24/7.
+* **_Network Access_** – When using the internet as your medium.
+* **_Shared Resources_** – All resources are gathered together and used by multiple customers.
+* **_Scalability_** – The ability of a computer system to adapt to increasing demands.
 
 The are Three primary delivery models in which Cloud computing can provide different services based on their unique configuration characteristics. You can see in the illustration below how a typical Cloud service provider organizes their  SaaS, PaaS, IaaS services.  The figure on the right shows what end customers pay for and what Cloud service providers will manage as the host vendor.
 
